@@ -1,0 +1,8 @@
+compiled/*
+data/*
+.usersessionkey
+build.sh
+config.plakbak
+dump.file
+logo.xcf
+.vscode/settings.json
