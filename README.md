@@ -33,7 +33,7 @@ You do not have to worry about the coordinates being normalized around 0: `bouw`
 To create bouw model files, you may use [Goxel](https://goxel.xyz/) and export your model to a text-file format. You may then manually add the header defining the block keys.
 
 ## Installing bouw
-To install `bouw` on your computer, you can run `pastebin run <GENERATE CODE>` on your turtle of choice in the folder in which you want to install `bouw`.
+To install `bouw` on your computer, you can download the install on your turtle of choice by `wget`ting the [installer file](bouw_install.lua) in the folder in which you want to install `bouw`.
 
 ## Building bouw
 To build `bouw` yourself, you have to use `tl`, a transpiler for the Teal programming language, a typed dialect of Lua. Simply use `tl build` with the root folder of this repo as the working directory.
